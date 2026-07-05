@@ -2,21 +2,15 @@
 
 # Hi 👋, I'm Jitu Sah
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Cybersecurity+Learner;Building+Expertise+in+Offensive+Security;Exploring+AI+Security+%26+Cloud+Security;Linux+%7C+Networking+%7C+Web+Security;Hands-on+Labs+%7C+CTFs+%7C+Projects;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=00FF99&center=true&vCenter=true&width=950&lines=Cybersecurity+Learner;Building+Expertise+in+Offensive+Security;Exploring+AI+Security+%26+Cloud+Security;Linux+%7C+Networking+%7C+Web+Security;Hands-on+Labs+%7C+CTFs+%7C+Documentation;Always+Learning.+Always+Building." />
 
 <br>
 
 ![](https://komarev.com/ghpvc/?username=jiks-sx&style=for-the-badge&color=blue)
-
-![](https://img.shields.io/badge/Offensive%20Security-red?style=for-the-badge)
-
-![](https://img.shields.io/badge/AI%20Security-blueviolet?style=for-the-badge)
-
-![](https://img.shields.io/badge/Cloud%20Security-0078D4?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge)
-
 ![](https://img.shields.io/badge/Status-Active%20Learner-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge)
+![](https://img.shields.io/badge/AI-Security-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/Cloud-Security-0078D4?style=for-the-badge)
 
 </div>
 
@@ -24,11 +18,11 @@
 
 # 🚀 About Me
 
-I'm a cybersecurity learner passionate about understanding technology from first principles and applying that knowledge through practical work.
+I'm a cybersecurity learner focused on building practical skills in **Offensive Security**, while continuously expanding my knowledge in **AI Security** and **Cloud Security**.
 
-My current focus is building practical skills in **Offensive Security** while continuously expanding my knowledge in **AI Security** and **Cloud Security**.
+I believe cybersecurity is best learned by understanding concepts from first principles, validating them through hands-on practice, and documenting everything along the way.
 
-Every repository on this GitHub represents something I have explored, practiced, documented, or built as part of my cybersecurity journey.
+Every repository on this GitHub reflects a part of my learning journey through labs, projects, technical notes, and real-world experimentation.
 
 ---
 
@@ -42,8 +36,8 @@ Every repository on this GitHub represents something I have explored, practiced,
 - 🌍 Web Security
 - 🏢 Active Directory
 - 🎯 Capture The Flag (CTFs)
-- 🛠 Security Projects
 - 📚 Cybersecurity Handbook
+- 🚀 100-Day Pentesting Challenge
 
 ---
 
@@ -83,17 +77,45 @@ Every repository on this GitHub represents something I have explored, practiced,
 
 ---
 
-# 💻 Technologies
+# 🛠️ Security Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode,html,css,mysql"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Metasploit-00549E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BloodHound-B22222?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/John%20The%20Ripper-202020?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hydra-5C2D91?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gobuster-006400?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FFUF-FF4500?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/sqlmap-8B0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -102,80 +124,3 @@ Every repository on this GitHub represents something I have explored, practiced,
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jiks-sx&theme=github-dark&hide_border=true"/>
 
 </p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiks-sx&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiks-sx&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📌 Featured Repositories
-
-- 📖 Cybersecurity Handbook
-- 🚀 100-Day Pentesting Challenge
-- 🛠 Practical Security Projects
-- 📚 Technical Documentation
-
----
-
-# 📚 Currently Learning
-
-- Linux
-- Networking
-- Web Security
-- Python
-- Active Directory
-- Cloud Fundamentals
-- Offensive Security Methodology
-- AI Security
-
----
-
-# 💡 Learning Philosophy
-
-> **Learn deeply.**
->
-> **Think critically.**
->
-> **Practice consistently.**
->
-> **Document everything.**
-
-I don't measure progress by the number of labs I complete.
-
-I measure it by how deeply I understand a concept and whether I can explain, document, and apply it in practical scenarios.
-
----
-
-# 🎯 2026 Goals
-
-- Complete the 100-Day Pentesting Challenge
-- Build the Cybersecurity Handbook
-- Solve more CTF challenges
-- Strengthen Linux & Networking fundamentals
-- Explore AI Security and Cloud Security
-- Build open-source cybersecurity projects
-
----
-
-<div align="center">
-
-## ⭐ Show your work, not your hype.
-
-</div>
