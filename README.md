@@ -2,15 +2,21 @@
 
 # Hi 👋, I'm Jitu Sah
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=00FF99&center=true&vCenter=true&width=950&lines=Cybersecurity+Learner;Building+Expertise+in+Offensive+Security;Exploring+AI+Security+%26+Cloud+Security;Linux+%7C+Networking+%7C+Web+Security;Hands-on+Labs+%7C+CTFs+%7C+Documentation;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=00FF99&center=true&vCenter=true&width=950&lines=Cybersecurity+Learner;Offensive+Security+%7C+AI+Security+%7C+Cloud+Security;Linux+%7C+Networking+%7C+Web+Security;Hands-on+Labs+%7C+CTFs+%7C+Open+Source;Always+Learning.+Always+Building." />
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=jiks-sx&style=for-the-badge&color=blue)
-![](https://img.shields.io/badge/Status-Active%20Learner-orange?style=for-the-badge)
-![](https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge)
-![](https://img.shields.io/badge/AI-Security-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/Cloud-Security-0078D4?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=jiks-sx&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/badge/Offensive%20Security-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Security-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Security-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Status-Active%20Learner-orange?style=for-the-badge"/>
 
 </div>
 
@@ -18,26 +24,23 @@
 
 # 🚀 About Me
 
-I'm a cybersecurity learner focused on building practical skills in **Offensive Security**, while continuously expanding my knowledge in **AI Security** and **Cloud Security**.
+I'm a cybersecurity learner focused on **Offensive Security**, while continuously expanding my knowledge in **AI Security** and **Cloud Security**.
 
-I believe cybersecurity is best learned by understanding concepts from first principles, validating them through hands-on practice, and documenting everything along the way.
+I enjoy understanding technologies from first principles, validating concepts through hands-on practice, and documenting everything I learn.
 
-Every repository on this GitHub reflects a part of my learning journey through labs, projects, technical notes, and real-world experimentation.
+Every repository on this GitHub reflects a part of my learning journey through labs, technical notes, projects, and continuous experimentation.
 
 ---
 
-# 🎯 Current Focus
+# 🏆 Current Achievement
 
-- 🔴 Offensive Security
-- 🤖 AI Security
-- ☁️ Cloud Security
-- 🐧 Linux
-- 🌐 Networking
-- 🌍 Web Security
-- 🏢 Active Directory
-- 🎯 Capture The Flag (CTFs)
-- 📚 Cybersecurity Handbook
-- 🚀 100-Day Pentesting Challenge
+🥇 **Top 4% on TryHackMe**
+
+🚀 Building a **100-Day Pentesting Challenge**
+
+📖 Building an open-source **Cybersecurity Handbook**
+
+🎯 Improving through hands-on labs, CTFs, and practical projects
 
 ---
 
@@ -45,59 +48,47 @@ Every repository on this GitHub reflects a part of my learning journey through l
 
 <p align="center">
 
-<a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<a href="https://tryhackme.com/p/jiksx">
+
+<img src="https://img.shields.io/badge/TryHackMe-Top%204%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+
 </a>
 
-<a href="https://www.hackthebox.com/">
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-</a>
 
-<a href="https://portswigger.net/web-security">
 <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge"/>
-</a>
 
-<a href="https://www.root-me.org/">
-<img src="https://img.shields.io/badge/Root--Me-121212?style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/Root--Me-111111?style=for-the-badge"/>
 
-<a href="https://picoctf.org/">
 <img src="https://img.shields.io/badge/picoCTF-3D8BFF?style=for-the-badge"/>
-</a>
 
-<a href="https://overthewire.org/">
 <img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge"/>
-</a>
 
-<a href="https://www.hackerrank.com/">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+
+<img src="https://img.shields.io/badge/Cylab%20Academy-0055A4?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🛠️ Security Stack
+# 🛠 Security Stack
 
-<p align="center">
+### 💻 Operating Systems
+
+<p>
 
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+</p>
+
+### 🌐 Enumeration & Recon
+
+<p>
 
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Metasploit-00549E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/BloodHound-B22222?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/John%20The%20Ripper-202020?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hydra-5C2D91?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Gobuster-006400?style=for-the-badge"/>
 
@@ -105,22 +96,98 @@ Every repository on this GitHub reflects a part of my learning journey through l
 
 <img src="https://img.shields.io/badge/sqlmap-8B0000?style=for-the-badge"/>
 
+</p>
+
+### 🌍 Web Security
+
+<p>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge"/>
+
+</p>
+
+### 🔑 Password Security
+
+<p>
+
+<img src="https://img.shields.io/badge/Hydra-5C2D91?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/John%20The%20Ripper-222222?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hashcat-FF8C00?style=for-the-badge"/>
+
+</p>
+
+### 📡 Network Analysis
+
+<p>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### 🏢 Active Directory
+
+<p>
+
+<img src="https://img.shields.io/badge/BloodHound-B22222?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Metasploit-00549E?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📌 Featured Projects
 
-<p align="center">
+📖 Cybersecurity Handbook
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jiks-sx&show_icons=true&theme=github_dark&hide_border=true"/>
+🚀 100-Day Pentesting Challenge
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jiks-sx&theme=github-dark&hide_border=true"/>
+🛠 Practical Security Labs
 
-</p>
+📚 Technical Documentation
+
+---
+
+# 🎯 Current Mission
+
+```text
+📚 Learn
+      ↓
+🧠 Understand
+      ↓
+🛠 Practice
+      ↓
+📝 Document
+      ↓
+🚀 Repeat
+```
+
+---
+
+# 💡 Learning Philosophy
+
+> Learn deeply.
+
+> Think critically.
+
+> Practice consistently.
+
+> Document everything.
+
+I don't measure progress by the number of rooms I complete.
+
+I measure it by how deeply I understand a concept and whether I can explain it, document it, and apply it in practical scenarios.
+
+---
+
+<div align="center">
+
+## ⭐ Show your work, not your hype.
+
+</div>
