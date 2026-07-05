@@ -2,21 +2,33 @@
 
 # Hi 👋, I'm Jitu Sah
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=00FF99&center=true&vCenter=true&width=950&lines=Cybersecurity+Learner;Offensive+Security+%7C+AI+Security+%7C+Cloud+Security;Linux+%7C+Networking+%7C+Web+Security;Hands-on+Labs+%7C+CTFs+%7C+Open+Source;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=950&lines=Cybersecurity+Learner;Offensive+Security+%7C+AI+Security+%7C+Cloud+Security;Linux+%7C+Networking+%7C+Web+Security;Hands-on+Labs+%7C+CTFs+%7C+Open+Source;Building+Practical+Cybersecurity+Skills;Always+Learning.+Always+Building." />
 
 <br>
 
+<a href="https://www.linkedin.com/in/jitu-sah">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jiks-sx">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/jiksx">
+<img src="https://img.shields.io/badge/TryHackMe-Top%204%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=jiks-sx&style=for-the-badge&color=0e75b6"/>
 
-<img src="https://img.shields.io/badge/Offensive%20Security-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI%20Security-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Security-blueviolet?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Cloud%20Security-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Security-0078D4?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Status-Active%20Learner-orange?style=for-the-badge"/>
 
 </div>
 
@@ -24,23 +36,23 @@
 
 # 🚀 About Me
 
-I'm a cybersecurity learner focused on **Offensive Security**, while continuously expanding my knowledge in **AI Security** and **Cloud Security**.
+I'm a cybersecurity learner passionate about understanding systems from first principles and applying that knowledge through hands-on practice.
 
-I enjoy understanding technologies from first principles, validating concepts through hands-on practice, and documenting everything I learn.
+My primary focus is **Offensive Security**, while continuously expanding my expertise in **AI Security** and **Cloud Security**.
 
-Every repository on this GitHub reflects a part of my learning journey through labs, technical notes, projects, and continuous experimentation.
+Every repository on this GitHub represents something I have explored, practiced, documented, or built as part of my cybersecurity journey.
 
 ---
 
-# 🏆 Current Achievement
+# 🏆 Current Achievements
 
-🥇 **Top 4% on TryHackMe**
+🥇 Top **4%** on TryHackMe
 
-🚀 Building a **100-Day Pentesting Challenge**
+🚀 Building the **100-Day Pentesting Challenge**
 
 📖 Building an open-source **Cybersecurity Handbook**
 
-🎯 Improving through hands-on labs, CTFs, and practical projects
+🎯 Solving CTFs and hands-on security labs
 
 ---
 
@@ -49,9 +61,7 @@ Every repository on this GitHub reflects a part of my learning journey through l
 <p align="center">
 
 <a href="https://tryhackme.com/p/jiksx">
-
 <img src="https://img.shields.io/badge/TryHackMe-Top%204%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-
 </a>
 
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
@@ -76,81 +86,51 @@ Every repository on this GitHub reflects a part of my learning journey through l
 
 ### 💻 Operating Systems
 
-<p>
+- Kali Linux
+- Linux
 
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+### 🌐 Recon & Enumeration
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
-### 🌐 Enumeration & Recon
-
-<p>
-
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gobuster-006400?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FFUF-FF4500?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/sqlmap-8B0000?style=for-the-badge"/>
-
-</p>
+- Nmap
+- Gobuster
+- FFUF
+- sqlmap
 
 ### 🌍 Web Security
 
-<p>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge"/>
-
-</p>
+- Burp Suite
+- OWASP Top 10
 
 ### 🔑 Password Security
 
-<p>
-
-<img src="https://img.shields.io/badge/Hydra-5C2D91?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/John%20The%20Ripper-222222?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hashcat-FF8C00?style=for-the-badge"/>
-
-</p>
+- Hydra
+- John the Ripper
+- Hashcat
 
 ### 📡 Network Analysis
 
-<p>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge"/>
-
-</p>
+- Wireshark
+- OpenVPN
 
 ### 🏢 Active Directory
 
-<p>
+- BloodHound
+- Metasploit (Learning)
 
-<img src="https://img.shields.io/badge/BloodHound-B22222?style=for-the-badge"/>
+### 📝 Documentation & Version Control
 
-<img src="https://img.shields.io/badge/Metasploit-00549E?style=for-the-badge"/>
-
-</p>
+- Git
+- GitHub
+- Markdown
 
 ---
 
 # 📌 Featured Projects
 
-📖 Cybersecurity Handbook
-
-🚀 100-Day Pentesting Challenge
-
-🛠 Practical Security Labs
-
-📚 Technical Documentation
+- 📖 Cybersecurity Handbook
+- 🚀 100-Day Pentesting Challenge
+- 🛠 Practical Security Labs
+- 📚 Technical Documentation
 
 ---
 
@@ -173,21 +153,43 @@ Every repository on this GitHub reflects a part of my learning journey through l
 # 💡 Learning Philosophy
 
 > Learn deeply.
-
+>
 > Think critically.
-
+>
 > Practice consistently.
-
+>
 > Document everything.
 
-I don't measure progress by the number of rooms I complete.
+I don't measure progress by the number of labs I complete.
 
 I measure it by how deeply I understand a concept and whether I can explain it, document it, and apply it in practical scenarios.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jitu-sah">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jiks-sx">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/p/jiksx">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
 ## ⭐ Show your work, not your hype.
+
+*Building knowledge through curiosity, consistency, and hands-on practice.*
 
 </div>
