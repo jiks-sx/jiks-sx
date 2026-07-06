@@ -65,35 +65,31 @@ Every repository on this GitHub represents practical work, technical notes, or p
 
 # Learning Platforms
 
-## Learning Platforms
-
-## Learning Platforms
-
 <div align="center">
 
 <a href="https://tryhackme.com/p/jiksx" target="_blank">
-<img src="https://cdn.simpleicons.org/tryhackme" width="55" alt="TryHackMe"/><br>
+<img src="https://cdn.simpleicons.org/tryhackme" width="60" alt="TryHackMe"/><br>
 <b>TryHackMe</b>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://app.hackthebox.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/hackthebox" width="55" alt="Hack The Box"/><br>
+<a href="https://app.hackthebox.com" target="_blank">
+<img src="https://cdn.simpleicons.org/hackthebox" width="60" alt="Hack The Box"/><br>
 <b>Hack The Box</b>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://portswigger.net/web-security" target="_blank">
-<img src="https://cdn.simpleicons.org/portswigger" width="55" alt="PortSwigger"/><br>
+<img src="https://cdn.simpleicons.org/portswigger" width="60" alt="PortSwigger"/><br>
 <b>PortSwigger</b>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank" width="55" alt="HackerRank"/><br>
+<a href="https://www.hackerrank.com" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank" width="60" alt="HackerRank"/><br>
 <b>HackerRank</b>
 </a>
 
@@ -103,27 +99,46 @@ Every repository on this GitHub represents practical work, technical notes, or p
 
 <div align="center">
 
-<a href="https://www.root-me.org/" target="_blank">
-<b>Root Me</b>
+### Also Learning From
+
+`Root Me` • `picoCTF` • `OverTheWire` • `Cylab Academy`
+
+</div>
+
+---
+
+## Next Platforms
+
+<div align="center">
+
+<a href="https://www.bugcrowd.com" target="_blank">
+<img src="https://cdn.simpleicons.org/bugcrowd" width="60" alt="Bugcrowd"/><br>
+<b>Bugcrowd</b>
 </a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://picoctf.org/" target="_blank">
-<b>picoCTF</b>
+<a href="https://www.hackerone.com" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerone" width="60" alt="HackerOne"/><br>
+<b>HackerOne</b>
 </a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://overthewire.org/" target="_blank">
-<b>OverTheWire</b>
+<a href="https://pentesterlab.com" target="_blank">
+<img src="https://img.shields.io/badge/PentesterLab-222222?style=for-the-badge&logoColor=white"/><br>
+<b>PentesterLab</b>
 </a>
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
+</div>
 
-<a href="https://learn.cylabacademy.org/" target="_blank">
-<b>Cylab Academy</b>
-</a>
+<br>
+
+<div align="center">
+
+### Planned Learning
+
+`VulnHub` • `OWASP Juice Shop`
 
 </div>
 
