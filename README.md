@@ -67,49 +67,63 @@ Every repository on this GitHub represents practical work, technical notes, or p
 
 ## Learning Platforms
 
+## Learning Platforms
+
 <div align="center">
 
-<a href="https://tryhackme.com/p/jiksx">
-<img src="https://cdn.simpleicons.org/tryhackme" width="60" alt="TryHackMe"/>
+<a href="https://tryhackme.com/p/jiksx" target="_blank">
+<img src="https://cdn.simpleicons.org/tryhackme" width="55" alt="TryHackMe"/><br>
+<b>TryHackMe</b>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="#">
-<img src="https://cdn.simpleicons.org/hackthebox" width="60" alt="Hack The Box"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://app.hackthebox.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/hackthebox" width="55" alt="Hack The Box"/><br>
+<b>Hack The Box</b>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://portswigger.net/web-security">
-<img src="https://cdn.simpleicons.org/portswigger" width="60" alt="PortSwigger"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://portswigger.net/web-security" target="_blank">
+<img src="https://cdn.simpleicons.org/portswigger" width="55" alt="PortSwigger"/><br>
+<b>PortSwigger</b>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com">
-<img src="https://cdn.simpleicons.org/hackerrank" width="60" alt="HackerRank"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank" width="55" alt="HackerRank"/><br>
+<b>HackerRank</b>
 </a>
 
 </div>
-
-<p align="center">
-
-<b>TryHackMe</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<b>Hack The Box</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<b>PortSwigger</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<b>HackerRank</b>
-
-</p>
 
 <br>
 
 <div align="center">
 
-Root Me • picoCTF • OverTheWire • Cylab Academy
+<a href="https://www.root-me.org/" target="_blank">
+<b>Root Me</b>
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://picoctf.org/" target="_blank">
+<b>picoCTF</b>
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://overthewire.org/" target="_blank">
+<b>OverTheWire</b>
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://learn.cylabacademy.org/" target="_blank">
+<b>Cylab Academy</b>
+</a>
 
 </div>
 
