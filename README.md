@@ -65,14 +65,53 @@ Every repository on this GitHub represents practical work, technical notes, or p
 
 # Learning Platforms
 
-- TryHackMe
-- Hack The Box
-- PortSwigger Web Security Academy
-- Root Me
-- picoCTF
-- OverTheWire
-- HackerRank
-- Cylab Academy
+## Learning Platforms
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/jiksx">
+<img src="https://cdn.simpleicons.org/tryhackme" width="60" alt="TryHackMe"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="#">
+<img src="https://cdn.simpleicons.org/hackthebox" width="60" alt="Hack The Box"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://portswigger.net/web-security">
+<img src="https://cdn.simpleicons.org/portswigger" width="60" alt="PortSwigger"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com">
+<img src="https://cdn.simpleicons.org/hackerrank" width="60" alt="HackerRank"/>
+</a>
+
+</div>
+
+<p align="center">
+
+<b>TryHackMe</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<b>Hack The Box</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<b>PortSwigger</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<b>HackerRank</b>
+
+</p>
+
+<br>
+
+<div align="center">
+
+Root Me • picoCTF • OverTheWire • Cylab Academy
+
+</div>
 
 ---
 
