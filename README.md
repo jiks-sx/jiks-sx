@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jitu Sah
+# Hi, I'm  Jitu
 
 Cybersecurity Learner
 
@@ -125,7 +125,7 @@ I measure progress by how deeply I understand, explain, document, and apply a co
 
 ## Currently Building
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Cybersecurity+Handbook+Coming+Soon;Deep+Dive+Concept+Notes;Hands-on+Labs+and+Walkthroughs;Stay+Tuned" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Cybersecurity+Handbook+Coming+Soon;Deep+Dive+Concept+Notes;Hands-on+Labs+and+Walkthroughs;Stay+Tuned+BUG-BOUNTY" />
 
 <br>
 
