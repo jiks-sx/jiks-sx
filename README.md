@@ -65,7 +65,7 @@ Every repository on this GitHub represents practical work, technical notes, or p
 
 # Learning Platforms
 
-- **TryHackMe:** https://tryhackme.com/p/jiksx
+- TryHackMe
 - Hack The Box
 - PortSwigger Web Security Academy
 - Root Me
@@ -125,8 +125,7 @@ I measure progress by how deeply I understand, explain, document, and apply a co
 
 ## Currently Building
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Cybersecurity+Handbook+Coming+Soon;Deep+Dive+Concept+Notes;Hands-on+Labs+and+Walkthroughs;Stay+Tuned+BUG-BOUNTY" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Cybersecurity+Handbook+Coming+Soon;Deep+Dive+Concept+Notes;Hands-on+Labs+and+Walkthroughs;Bug+Bounty+Journey+Coming+Soon;Stay+Tuned" />
 <br>
 
 Building knowledge through consistency, curiosity, and hands-on practice.
