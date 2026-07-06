@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Jitu Sah
+# Hello , I'm Jitu
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=00FF99&center=true&vCenter=true&width=950&lines=Cybersecurity+Learner;Offensive+Security+%7C+AI+Security+%7C+Cloud+Security;Linux+%7C+Networking+%7C+Web+Security;Hands-on+Labs+%7C+CTFs+%7C+Open+Source;Always+Learning.+Always+Building." />
 
@@ -22,7 +22,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I'm a cybersecurity learner focused on **Offensive Security**, while continuously expanding my knowledge in **AI Security** and **Cloud Security**.
 
@@ -32,19 +32,19 @@ Every repository on this GitHub reflects a part of my learning journey through l
 
 ---
 
-# 🏆 Current Achievement
+#  Current Achievement
 
-🥇 **Top 4% on TryHackMe**
+ **Top 4% on TryHackMe**
 
-🚀 Building a **100-Day Pentesting Challenge**
+ Building a **100-Day Pentesting Challenge**
 
-📖 Building an open-source **Cybersecurity Handbook**
+ Building an open-source **Cybersecurity Handbook**
 
-🎯 Improving through hands-on labs, CTFs, and practical projects
+ Improving through hands-on labs, CTFs, and practical projects
 
 ---
 
-# 🌐 Learning Platforms
+#  Learning Platforms
 
 <p align="center">
 
@@ -72,9 +72,9 @@ Every repository on this GitHub reflects a part of my learning journey through l
 
 ---
 
-# 🛠 Security Stack
+#  Security Stack
 
-### 💻 Operating Systems
+###  Operating Systems
 
 <p>
 
@@ -84,7 +84,7 @@ Every repository on this GitHub reflects a part of my learning journey through l
 
 </p>
 
-### 🌐 Enumeration & Recon
+###  Enumeration & Recon
 
 <p>
 
@@ -98,7 +98,7 @@ Every repository on this GitHub reflects a part of my learning journey through l
 
 </p>
 
-### 🌍 Web Security
+###  Web Security
 
 <p>
 
@@ -108,7 +108,7 @@ Every repository on this GitHub reflects a part of my learning journey through l
 
 </p>
 
-### 🔑 Password Security
+###  Password Security
 
 <p>
 
@@ -120,7 +120,7 @@ Every repository on this GitHub reflects a part of my learning journey through l
 
 </p>
 
-### 📡 Network Analysis
+###  Network Analysis
 
 <p>
 
@@ -130,7 +130,7 @@ Every repository on this GitHub reflects a part of my learning journey through l
 
 </p>
 
-### 🏢 Active Directory
+###  Active Directory
 
 <p>
 
@@ -142,35 +142,35 @@ Every repository on this GitHub reflects a part of my learning journey through l
 
 ---
 
-# 📌 Featured Projects
+#  Featured Projects
 
-📖 Cybersecurity Handbook
+ Cybersecurity Handbook
 
-🚀 100-Day Pentesting Challenge
+ 100-Day Pentesting Challenge
 
-🛠 Practical Security Labs
+ Practical Security Labs
 
-📚 Technical Documentation
+ Technical Documentation
 
 ---
 
-# 🎯 Current Mission
+#  Current Mission
 
 ```text
-📚 Learn
+ Learn
       ↓
-🧠 Understand
+ Understand
       ↓
-🛠 Practice
+ Practice
       ↓
-📝 Document
+ Document
       ↓
-🚀 Repeat
+ Repeat
 ```
 
 ---
 
-# 💡 Learning Philosophy
+#  Learning Philosophy
 
 > Learn deeply.
 
