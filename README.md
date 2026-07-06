@@ -1,193 +1,137 @@
-<div align="center">
+K::: {align="center"}
+# Jitu Sah
 
-# Hello , I'm Jitu
+Cybersecurity Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=00FF99&center=true&vCenter=true&width=950&lines=Cybersecurity+Learner;Offensive+Security+%7C+AI+Security+%7C+Cloud+Security;Linux+%7C+Networking+%7C+Web+Security;Hands-on+Labs+%7C+CTFs+%7C+Open+Source;Always+Learning.+Always+Building." />
+Offensive Security • AI Security • Cloud Security
 
-<br>
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Building+Expertise+in+Offensive+Security;Exploring+AI+Security+and+Cloud+Security;Linux+%7C+Networking+%7C+Web+Security;Hands-on+Labs+%7C+CTFs+%7C+Documentation;Always+Learning.+Always+Building." />`{=html}
 
-<img src="https://komarev.com/ghpvc/?username=jiks-sx&style=for-the-badge&color=0e75b6"/>
+`<br>`{=html}
 
-<img src="https://img.shields.io/badge/Offensive%20Security-red?style=for-the-badge"/>
+`<a href="https://www.linkedin.com/in/jitu-sah">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-<img src="https://img.shields.io/badge/AI%20Security-blueviolet?style=for-the-badge"/>
+`<a href="https://github.com/jiks-sx">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-<img src="https://img.shields.io/badge/Cloud%20Security-0078D4?style=for-the-badge"/>
+`<a href="https://tryhackme.com/p/jiksx">`{=html}
+`<img src="https://img.shields.io/badge/TryHackMe-Top%204%25-212C42?style=flat-square&logo=tryhackme&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-<img src="https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge"/>
+`<br>`{=html}
 
-<img src="https://img.shields.io/badge/Status-Active%20Learner-orange?style=for-the-badge"/>
+`<img src="https://komarev.com/ghpvc/?username=jiks-sx&style=flat-square"/>`{=html}
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
+# About
 
-#  About Me
+I am a cybersecurity learner focused on **Offensive Security** while
+steadily expanding my knowledge in **AI Security** and **Cloud
+Security**.
 
-I'm a cybersecurity learner focused on **Offensive Security**, while continuously expanding my knowledge in **AI Security** and **Cloud Security**.
+I prefer learning from first principles, validating concepts through
+hands-on practice, and documenting everything I study.
 
-I enjoy understanding technologies from first principles, validating concepts through hands-on practice, and documenting everything I learn.
+Every repository on this GitHub represents practical work, technical
+notes, or projects created throughout my learning journey.
 
-Every repository on this GitHub reflects a part of my learning journey through labs, technical notes, projects, and continuous experimentation.
+------------------------------------------------------------------------
 
----
+# Current Focus
 
-#  Current Achievement
+-   Offensive Security
+-   AI Security
+-   Cloud Security
+-   Linux
+-   Networking
+-   Web Security
+-   Active Directory
+-   Capture The Flag (CTFs)
+-   Technical Documentation
 
- **Top 4% on TryHackMe**
+------------------------------------------------------------------------
 
- Building a **100-Day Pentesting Challenge**
+# Current Achievements
 
- Building an open-source **Cybersecurity Handbook**
+-   Top **4%** on TryHackMe
+-   Building the **100-Day Pentesting Challenge**
+-   Building the **Cybersecurity Handbook**
+-   Solving hands-on labs and CTF challenges
 
- Improving through hands-on labs, CTFs, and practical projects
+------------------------------------------------------------------------
 
----
+# Learning Platforms
 
-#  Learning Platforms
+-   TryHackMe
+-   Hack The Box
+-   PortSwigger Web Security Academy
+-   Root Me
+-   picoCTF
+-   OverTheWire
+-   HackerRank
+-   Cylab Academy
 
-<p align="center">
+------------------------------------------------------------------------
 
-<a href="https://tryhackme.com/p/jiksx">
+# Featured Repositories
 
-<img src="https://img.shields.io/badge/TryHackMe-Top%204%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+-   Cybersecurity Handbook
+-   100-Day Pentesting Challenge
+-   Practical Security Labs
+-   Technical Documentation
 
-</a>
+------------------------------------------------------------------------
 
-<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+# Current Mission
 
-<img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Root--Me-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/picoCTF-3D8BFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cylab%20Academy-0055A4?style=for-the-badge"/>
-
-</p>
-
----
-
-#  Security Stack
-
-###  Operating Systems
-
-<p>
-
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
-###  Enumeration & Recon
-
-<p>
-
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gobuster-006400?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FFUF-FF4500?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/sqlmap-8B0000?style=for-the-badge"/>
-
-</p>
-
-###  Web Security
-
-<p>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge"/>
-
-</p>
-
-###  Password Security
-
-<p>
-
-<img src="https://img.shields.io/badge/Hydra-5C2D91?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/John%20The%20Ripper-222222?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hashcat-FF8C00?style=for-the-badge"/>
-
-</p>
-
-###  Network Analysis
-
-<p>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge"/>
-
-</p>
-
-###  Active Directory
-
-<p>
-
-<img src="https://img.shields.io/badge/BloodHound-B22222?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Metasploit-00549E?style=for-the-badge"/>
-
-</p>
-
----
-
-#  Featured Projects
-
- Cybersecurity Handbook
-
- 100-Day Pentesting Challenge
-
- Practical Security Labs
-
- Technical Documentation
-
----
-
-#  Current Mission
-
-```text
- Learn
-      ↓
- Understand
-      ↓
- Practice
-      ↓
- Document
-      ↓
- Repeat
+``` text
+Learn
+  ↓
+Understand
+  ↓
+Practice
+  ↓
+Document
+  ↓
+Repeat
 ```
 
----
+------------------------------------------------------------------------
 
-#  Learning Philosophy
+# Learning Philosophy
 
-> Learn deeply.
+> Understand before memorizing.
 
-> Think critically.
+> Practice before claiming.
 
-> Practice consistently.
+> Document before moving on.
 
-> Document everything.
+I measure progress by how well I can understand, explain, document, and
+apply a concept---not by the number of completed rooms.
 
-I don't measure progress by the number of rooms I complete.
+------------------------------------------------------------------------
 
-I measure it by how deeply I understand a concept and whether I can explain it, document it, and apply it in practical scenarios.
+# Connect
 
----
+-   LinkedIn: https://www.linkedin.com/in/jitu-sah
+-   GitHub: https://github.com/jiks-sx
+-   TryHackMe: https://tryhackme.com/p/jiksx
 
-<div align="center">
+------------------------------------------------------------------------
 
-## ⭐ Show your work, not your hype.
+::: {align="center"}
+## Currently Building
 
-</div>
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Cybersecurity+Handbook+Coming+Soon;Deep+Dive+Concept+Notes;Hands-on+Labs+and+Walkthroughs;Stay+Tuned" />`{=html}
+
+`<br>`{=html}
+
+Building knowledge through consistency, curiosity, and hands-on
+practice.
+:::
+
