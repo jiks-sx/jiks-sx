@@ -65,82 +65,110 @@ Every repository on this GitHub represents practical work, technical notes, or p
 
 # Learning Platforms
 
-<div align="center">
+### Training Platforms
 
-<a href="https://tryhackme.com/p/jiksx" target="_blank">
-<img src="https://cdn.simpleicons.org/tryhackme" width="60" alt="TryHackMe"/><br>
-<b>TryHackMe</b>
+<table>
+<tr>
+
+<td align="center" width="150">
+<a href="https://tryhackme.com/p/jiksx">
+<img src="https://cdn.simpleicons.org/tryhackme" width="45"/><br><br>
+<b>TryHackMe</b><br>
+<sub>Top 4%</sub>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://app.hackthebox.com" target="_blank">
-<img src="https://cdn.simpleicons.org/hackthebox" width="60" alt="Hack The Box"/><br>
+<td align="center" width="150">
+<a href="https://app.hackthebox.com/">
+<img src="https://cdn.simpleicons.org/hackthebox" width="45"/><br><br>
 <b>Hack The Box</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://portswigger.net/web-security" target="_blank">
-<img src="https://cdn.simpleicons.org/portswigger" width="60" alt="PortSwigger"/><br>
+<td align="center" width="150">
+<a href="https://portswigger.net/web-security">
+<img src="https://cdn.simpleicons.org/portswigger" width="45"/><br><br>
 <b>PortSwigger</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank" width="60" alt="HackerRank"/><br>
+<td align="center" width="150">
+<a href="https://www.hackerrank.com/">
+<img src="https://cdn.simpleicons.org/hackerrank" width="45"/><br><br>
 <b>HackerRank</b>
 </a>
+</td>
 
-</div>
+</tr>
+</table>
 
-<br>
+<table>
+<tr>
 
-<div align="center">
+<td align="center" width="180">
+<b>Root Me</b>
+</td>
 
-### Also Learning From
+<td align="center" width="180">
+<b>picoCTF</b>
+</td>
 
-`Root Me` • `picoCTF` • `OverTheWire` • `Cylab Academy`
+<td align="center" width="180">
+<b>OverTheWire</b>
+</td>
 
-</div>
+<td align="center" width="180">
+<b>Cylab Academy</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Next Platforms
+### Bug Bounty Platforms Soon
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://www.bugcrowd.com" target="_blank">
-<img src="https://cdn.simpleicons.org/bugcrowd" width="60" alt="Bugcrowd"/><br>
+<td align="center" width="220">
+<a href="https://www.bugcrowd.com/">
+<img src="https://cdn.simpleicons.org/bugcrowd" width="45"/><br><br>
 <b>Bugcrowd</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerone.com" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerone" width="60" alt="HackerOne"/><br>
+<td align="center" width="220">
+<a href="https://www.hackerone.com/">
+<img src="https://cdn.simpleicons.org/hackerone" width="45"/><br><br>
 <b>HackerOne</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</tr>
+</table>
 
-<a href="https://pentesterlab.com" target="_blank">
-<img src="https://img.shields.io/badge/PentesterLab-222222?style=for-the-badge&logoColor=white"/><br>
+---
+
+### Practice Labs Planned
+
+<table>
+<tr>
+
+<td align="center" width="220">
 <b>PentesterLab</b>
-</a>
+</td>
 
-</div>
+<td align="center" width="220">
+<b>VulnHub</b>
+</td>
 
-<br>
+<td align="center" width="220">
+<b>OWASP Juice Shop</b>
+</td>
 
-<div align="center">
-
-### Planned Learning
-
-`VulnHub` • `OWASP Juice Shop`
-
-</div>
+</tr>
+</table>
 
 ---
 
