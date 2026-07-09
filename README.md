@@ -71,7 +71,7 @@ Every repository on this GitHub represents practical work, technical notes, or p
 <tr>
 
 <td align="center" width="150">
-<a href="https://tryhackme.com/p/jiksx">
+<a href="https://tryhackme.com">
 <img src="https://cdn.simpleicons.org/tryhackme" width="45"/><br><br>
 <b>TryHackMe</b><br>
 <sub>Top 4%</sub>
@@ -213,7 +213,6 @@ I measure progress by how deeply I understand, explain, document, and apply a co
 
 - LinkedIn: https://www.linkedin.com/in/jitu-sah
 - GitHub: https://github.com/jiks-sx
-- TryHackMe: https://tryhackme.com/p/jiksx
 
 ---
 
